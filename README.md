@@ -1,6 +1,6 @@
 # 🚁 Autonomous Tracking Drone: 비전-뎁스 센서 융합 및 자율 비행 제어 분석
 
-<img width="1080" height="2340" alt="KakaoTalk_20260620_122422585" src="https://github.com/user-attachments/assets/0c440b5d-164d-4439-90be-9c6077c778eb" />
+<img width="729" height="464" alt="KakaoTalk_20260620_122422585" src="https://github.com/user-attachments/assets/af1f7840-86cc-410d-94da-2adfc71ab761" />
 
 ## 1. 프로젝트 개요
 본 프로젝트는 학부연구생 프로그램을 통해 Pixhawk 4(FC)와 NVIDIA Jetson을 활용하여 지능형 자율 비행 시스템을 구축한 연구 개발 프로젝트입니다. 
